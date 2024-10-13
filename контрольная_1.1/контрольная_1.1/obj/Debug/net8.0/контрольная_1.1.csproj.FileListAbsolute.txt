@@ -1,0 +1,14 @@
+C:\Users\kuril\source\repos\контрольная_1.1\контрольная_1.1\bin\Debug\net8.0\контрольная_1.1.exe
+C:\Users\kuril\source\repos\контрольная_1.1\контрольная_1.1\bin\Debug\net8.0\контрольная_1.1.deps.json
+C:\Users\kuril\source\repos\контрольная_1.1\контрольная_1.1\bin\Debug\net8.0\контрольная_1.1.runtimeconfig.json
+C:\Users\kuril\source\repos\контрольная_1.1\контрольная_1.1\bin\Debug\net8.0\контрольная_1.1.dll
+C:\Users\kuril\source\repos\контрольная_1.1\контрольная_1.1\bin\Debug\net8.0\контрольная_1.1.pdb
+C:\Users\kuril\source\repos\контрольная_1.1\контрольная_1.1\obj\Debug\net8.0\контрольная_1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kuril\source\repos\контрольная_1.1\контрольная_1.1\obj\Debug\net8.0\контрольная_1.1.AssemblyInfoInputs.cache
+C:\Users\kuril\source\repos\контрольная_1.1\контрольная_1.1\obj\Debug\net8.0\контрольная_1.1.AssemblyInfo.cs
+C:\Users\kuril\source\repos\контрольная_1.1\контрольная_1.1\obj\Debug\net8.0\контрольная_1.1.csproj.CoreCompileInputs.cache
+C:\Users\kuril\source\repos\контрольная_1.1\контрольная_1.1\obj\Debug\net8.0\контрольная_1.1.dll
+C:\Users\kuril\source\repos\контрольная_1.1\контрольная_1.1\obj\Debug\net8.0\refint\контрольная_1.1.dll
+C:\Users\kuril\source\repos\контрольная_1.1\контрольная_1.1\obj\Debug\net8.0\контрольная_1.1.pdb
+C:\Users\kuril\source\repos\контрольная_1.1\контрольная_1.1\obj\Debug\net8.0\контрольная_1.1.genruntimeconfig.cache
+C:\Users\kuril\source\repos\контрольная_1.1\контрольная_1.1\obj\Debug\net8.0\ref\контрольная_1.1.dll
