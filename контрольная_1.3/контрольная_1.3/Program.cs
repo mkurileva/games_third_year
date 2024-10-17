@@ -29,8 +29,8 @@ class Program
 
     static void InitializeGrid()
     {
-        Console.WriteLine("Введите координаты 5 живых клеток (x y), разделенные пробелом:");
-        for (int i = 0; i < 5; i++)
+        Console.WriteLine("Введите координаты 10 живых клеток (x y), разделенные пробелом:");
+        for (int i = 0; i < 10; i++)
         {
             var input = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
             int x = input[0];
