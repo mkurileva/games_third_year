@@ -1417,8 +1417,9 @@ MonoBehaviour:
   gridSize: 15
   spacing: 1
   updateInterval: 1
-  clearButton: {fileID: 0}
-  stopButton: {fileID: 0}
+  startButton: {fileID: 311037419}
+  stopButton: {fileID: 1801654973}
+  clearButton: {fileID: 222923405}
 --- !u!4 &1464977977
 Transform:
   m_ObjectHideFlags: 0
