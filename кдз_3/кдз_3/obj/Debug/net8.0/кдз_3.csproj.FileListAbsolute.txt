@@ -1,0 +1,14 @@
+D:\Users\kuril\source\repos\кдз_3\кдз_3\bin\Debug\net8.0\кдз_3.exe
+D:\Users\kuril\source\repos\кдз_3\кдз_3\bin\Debug\net8.0\кдз_3.deps.json
+D:\Users\kuril\source\repos\кдз_3\кдз_3\bin\Debug\net8.0\кдз_3.runtimeconfig.json
+D:\Users\kuril\source\repos\кдз_3\кдз_3\bin\Debug\net8.0\кдз_3.dll
+D:\Users\kuril\source\repos\кдз_3\кдз_3\bin\Debug\net8.0\кдз_3.pdb
+D:\Users\kuril\source\repos\кдз_3\кдз_3\obj\Debug\net8.0\кдз_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\kuril\source\repos\кдз_3\кдз_3\obj\Debug\net8.0\кдз_3.AssemblyInfoInputs.cache
+D:\Users\kuril\source\repos\кдз_3\кдз_3\obj\Debug\net8.0\кдз_3.AssemblyInfo.cs
+D:\Users\kuril\source\repos\кдз_3\кдз_3\obj\Debug\net8.0\кдз_3.csproj.CoreCompileInputs.cache
+D:\Users\kuril\source\repos\кдз_3\кдз_3\obj\Debug\net8.0\кдз_3.dll
+D:\Users\kuril\source\repos\кдз_3\кдз_3\obj\Debug\net8.0\refint\кдз_3.dll
+D:\Users\kuril\source\repos\кдз_3\кдз_3\obj\Debug\net8.0\кдз_3.pdb
+D:\Users\kuril\source\repos\кдз_3\кдз_3\obj\Debug\net8.0\кдз_3.genruntimeconfig.cache
+D:\Users\kuril\source\repos\кдз_3\кдз_3\obj\Debug\net8.0\ref\кдз_3.dll
