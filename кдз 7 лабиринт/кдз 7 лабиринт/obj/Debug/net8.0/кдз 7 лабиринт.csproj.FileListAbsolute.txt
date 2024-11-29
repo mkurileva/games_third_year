@@ -1,0 +1,14 @@
+D:\Users\kuril\source\repos\кдз 7 лабиринт\кдз 7 лабиринт\bin\Debug\net8.0\кдз 7 лабиринт.exe
+D:\Users\kuril\source\repos\кдз 7 лабиринт\кдз 7 лабиринт\bin\Debug\net8.0\кдз 7 лабиринт.deps.json
+D:\Users\kuril\source\repos\кдз 7 лабиринт\кдз 7 лабиринт\bin\Debug\net8.0\кдз 7 лабиринт.runtimeconfig.json
+D:\Users\kuril\source\repos\кдз 7 лабиринт\кдз 7 лабиринт\bin\Debug\net8.0\кдз 7 лабиринт.dll
+D:\Users\kuril\source\repos\кдз 7 лабиринт\кдз 7 лабиринт\bin\Debug\net8.0\кдз 7 лабиринт.pdb
+D:\Users\kuril\source\repos\кдз 7 лабиринт\кдз 7 лабиринт\obj\Debug\net8.0\кдз 7 лабиринт.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\kuril\source\repos\кдз 7 лабиринт\кдз 7 лабиринт\obj\Debug\net8.0\кдз 7 лабиринт.AssemblyInfoInputs.cache
+D:\Users\kuril\source\repos\кдз 7 лабиринт\кдз 7 лабиринт\obj\Debug\net8.0\кдз 7 лабиринт.AssemblyInfo.cs
+D:\Users\kuril\source\repos\кдз 7 лабиринт\кдз 7 лабиринт\obj\Debug\net8.0\кдз 7 лабиринт.csproj.CoreCompileInputs.cache
+D:\Users\kuril\source\repos\кдз 7 лабиринт\кдз 7 лабиринт\obj\Debug\net8.0\кдз 7 лабиринт.dll
+D:\Users\kuril\source\repos\кдз 7 лабиринт\кдз 7 лабиринт\obj\Debug\net8.0\refint\кдз 7 лабиринт.dll
+D:\Users\kuril\source\repos\кдз 7 лабиринт\кдз 7 лабиринт\obj\Debug\net8.0\кдз 7 лабиринт.pdb
+D:\Users\kuril\source\repos\кдз 7 лабиринт\кдз 7 лабиринт\obj\Debug\net8.0\кдз 7 лабиринт.genruntimeconfig.cache
+D:\Users\kuril\source\repos\кдз 7 лабиринт\кдз 7 лабиринт\obj\Debug\net8.0\ref\кдз 7 лабиринт.dll
